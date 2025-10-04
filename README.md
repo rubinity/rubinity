@@ -3,20 +3,20 @@
 
 - 👩🏻‍💻[42-Heilbronn](https://www.42heilbronn.de) student
 - 🛣️ Looking for internship
-- :germany: Learning German (B2.1)
+- <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ea.svg" width="20" alt="Germany"> Learning German (B2.1)
 
 ## 💼 Skills
 
 <p>
 <h4>Programming</h4>
-  <img src="https://img.shields.io/badge/C-535C91">
-  <img src="https://img.shields.io/badge/C++-535C91">
+    <img src="https://img.shields.io/badge/C-535C91">
+    <img src="https://img.shields.io/badge/C++-535C91">
     <img src="https://img.shields.io/badge/Python-535C91">
     <img src="https://img.shields.io/badge/JavaScript-535C91">
     <img src="https://img.shields.io/badge/VBA-535C91">
 <h4>Scripting, Query, and Markup</h4>
-  <img src="https://img.shields.io/badge/SQL-C6A6A6">
-  <img src="https://img.shields.io/badge/HTML-C6A6A6">
+    <img src="https://img.shields.io/badge/SQL-C6A6A6">
+    <img src="https://img.shields.io/badge/HTML-C6A6A6">
     <img src="https://img.shields.io/badge/JSON-C6A6A6">
     <img src="https://img.shields.io/badge/git-C6A6A6">
     <h4>Tools & Frameworks</h4>
@@ -29,6 +29,8 @@
     <img src="https://img.shields.io/badge/Network_Administration-C97E76">
 
 </p>
+<img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ea.svg" width="20" alt="Germany">
+## <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ea.svg" width="20"> German Version
 
 
 ## 💻 Featured Projects
