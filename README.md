@@ -1,16 +1,15 @@
-## Hi there 👋
+## 💡 About Me
+- 👩🏻‍💻[42 Heilbron](https://www.42heilbronn.de) student
+- 🌱 test :sparkles:
+- test :42thenetwork:
+- 🤣❤️😍👩🏻 :42:
 
-<!--
-**rubinity/rubinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Featured Projects
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://github.com/rubinity/Computorv1"><img src="https://img.shields.io/badge/42-Computorv1-blue"></a>
+  <a href="https://github.com/rubinity/Inception"><img src="https://img.shields.io/badge/42-Inception-green"></a>
+  <a href="https://github.com/rubinity/42-cub3d"><img src="https://img.shields.io/badge/42-cub3d-purple"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
