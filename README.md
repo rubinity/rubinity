@@ -6,7 +6,7 @@
 - <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ea.svg" width="20" alt="Germany"> Learning German (B2.1)
 
 ## 💼 Skills
-<h4>Programming</h4>
+<p><h4>Programming</h4>
         <p>
             <img src="https://img.shields.io/badge/C-535C91">
             <img src="https://img.shields.io/badge/C++-535C91">
@@ -32,13 +32,19 @@
         <img src="https://img.shields.io/badge/Databases-C97E76">
         <img src="https://img.shields.io/badge/Administration(Linux,_Windows)-C97E76">
         <img src="https://img.shields.io/badge/Network_Administration-C97E76">
-    </p>
+    </p></p>
 
 ## 💻 Featured Projects
 <p>
-  <a href="https://github.com/rubinity/Computorv1"><img src="https://img.shields.io/badge/42-Computorv1-535C91"></a>
-  <a href="https://github.com/rubinity/Inception"><img src="https://img.shields.io/badge/42-Inception-green"></a>
-  <a href="https://github.com/rubinity/42-cub3d"><img src="https://img.shields.io/badge/42-cub3d-purple"></a>
+    <a href="https://github.com/rubinity/bg_remover"><img src="https://img.shields.io/badge/Solo-bg__remover-9b75a3"></a>
+    <a href="https://github.com/rubinity/mmmCV"><img src="https://img.shields.io/badge/Solo-mmmCV-6dbda2"></a>
+    <a href="https://github.com/rubinity/C-P"><img src="https://img.shields.io/badge/Solo-Cases_and_Prepositions-c793a6"></a>
+    <br>
+    <a href="https://github.com/rubinity/level3-cloud"><img src="https://img.shields.io/badge/LEVEL3-Build_a_Cloud-8ba8ee"></a>
+     <a href="https://github.com/rubinity/Computorv1"><img src="https://img.shields.io/badge/42-Computorv1-535C91"></a>
+    <a href="https://github.com/rubinity/Inception"><img src="https://img.shields.io/badge/42-Inception-green"></a>
+    <a href="https://github.com/rubinity/42-cub3d"><img src="https://img.shields.io/badge/42-cub3d-purple"></a>
+
 </p>
 
 
