@@ -36,12 +36,12 @@
 
 ## 💻 Featured Projects
 <p>
-    <a href="https://github.com/rubinity/bg_remover"><img src="https://img.shields.io/badge/Solo-bg__remover-9b75a3"></a>
+    <a href="https://github.com/rubinity/bg_remover"><img src="https://img.shields.io/badge/Solo-Background_Remover-9b75a3"></a>
     <a href="https://github.com/rubinity/mmmCV"><img src="https://img.shields.io/badge/Solo-mmmCV-6dbda2"></a>
     <a href="https://github.com/rubinity/C-P"><img src="https://img.shields.io/badge/Solo-Cases_and_Prepositions-c793a6"></a>
     <br>
     <a href="https://github.com/rubinity/level3-cloud"><img src="https://img.shields.io/badge/LEVEL3-Build_a_Cloud-8ba8ee"></a>
-     <a href="https://github.com/rubinity/Computorv1"><img src="https://img.shields.io/badge/42-Computorv1-535C91"></a>
+     <a href="https://github.com/rubinity/ft_linear_regression"><img src="https://img.shields.io/badge/42-Linear_Regression-535C91"></a>
     <a href="https://github.com/rubinity/Inception"><img src="https://img.shields.io/badge/42-Inception-green"></a>
     <a href="https://github.com/rubinity/42-cub3d"><img src="https://img.shields.io/badge/42-cub3d-purple"></a>
 
